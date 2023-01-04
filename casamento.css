@@ -1,0 +1,58 @@
+
+nav li{
+    font-size: 25px;
+    display: inline;
+    text-transform: uppercase;
+    font-weight: solid;
+
+    margin: 5%;
+    
+}
+
+body{
+    background: radial-gradient(pink, red)
+}
+
+h1 {
+    color: rgb(138, 164, 164);
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    text-shadow: 0.5em 0.5em 0.8em black;
+       
+}
+
+.foto1 {
+    display: flex;
+    justify-content: center;
+      
+}
+img{
+    width: 30%;
+    border-radius: 10%;
+    border-width: 2px;
+    border-style:ridge;
+    border-color: aquamarine;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+p{
+    font-size: 1.5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0.2em 0.2em 0.5em black;
+    text-align: center;
+}
+
+.foto2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.amor{
+    font-size: 1.5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0.1em 0.1em 0.3em black;
+    text-align: center;
+    text-transform: uppercase;
+}
